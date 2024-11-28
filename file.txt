@@ -1,0 +1,2401 @@
+[
+    {
+        "id": "rec11pDFrMIIruyqH",
+        "createdTime": "2024-06-29T03:41:13.000Z",
+        "fields": { 
+            "Model": "miniRITE",
+            "Couplings": [
+                "miniFit Detect 85",
+                "miniFit Detect 60",
+                "miniFit Detect 100",
+                "miniFit Detect 105"
+            ],
+            "Electroacoustics": [
+                "recJzBYvxvmHsDO7M",
+                "rect8TudVb1TRlHW7",
+                "recgcmHX3tcxUHGLC",
+                "rec12DbSgpa43kjcU",
+                "recxXhHIreFwEKwht",
+                "recGEvTpujnWurkOm",
+                "recnCavZARUxroKks",
+                "rec6mWR33OXJYjyM6"
+            ],
+            "Fitting Ranges": [
+                "reci2Vh0uR7bGHRi3",
+                "recKEHTL22ydOa0nP",
+                "reccl0jSxdP8XBaAK",
+                "rec0l3FrBdbwOsmJd",
+                "rec8rweSJdwG74G2Z",
+                "recatRKEaJXrmQ2X0",
+                "rec2iLUiEOpQYYY1h",
+                "recReNs8gpZEVYU4h",
+                "recrleHMzYnhVZ2qu"
+            ],
+            "Family": "Intent",
+            "Technology Level": "1",
+            "Charging Stats": [
+                "reczq4t7WyxYFv1YU"
+            ],
+            "Model Link": [
+                "recLujjRkeBQh9ZUx"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Intent 1 miniRITE"
+        }
+    },
+    {
+        "id": "rec192pjnzxANuSJ4",
+        "createdTime": "2024-07-23T23:02:07.000Z",
+        "fields": {
+            "Model": "XP",
+            "Family": "Moment",
+            "Brand": [
+                "reccW9sWMWidk7nra"
+            ],
+            "Hearing Aid": "Moment  XP"
+        }
+    },
+    {
+        "id": "rec1lj11doy6Wjklg",
+        "createdTime": "2024-07-23T23:04:27.000Z",
+        "fields": {
+            "Model": "ITC Rechargable",
+            "Couplings": [
+                "L Receiver",
+                "M Receiver",
+                "P Receiver",
+                "UP Receiver"
+            ],
+            "Fitting Ranges": [
+                "recDrffAlsafr5Hho",
+                "recX7TSRWBxsjQWZz",
+                "recrrNDmY5pXYhUh2",
+                "recRr49EDigul5S4s"
+            ],
+            "Family": "Genesis AI",
+            "Model Link": [
+                "recZVR3wd0W7noKEH"
+            ],
+            "Brand": [
+                "recOTzKvcLWZYW6mz"
+            ],
+            "Hearing Aid": "Genesis AI  ITC Rechargable"
+        }
+    },
+    {
+        "id": "rec425jOPSpwnoh6h",
+        "createdTime": "2024-08-17T02:52:04.000Z",
+        "fields": {
+            "Model": "ITE Full Shell",
+            "Couplings": [
+                "75dB",
+                "90dB"
+            ],
+            "Electroacoustics": [
+                "recD6cGLtfE7lQVnI",
+                "recwgIbLLvsQQUssb",
+                "recNNgYhzmTW57yfm",
+                "recqRkOg4dUGhAN9m"
+            ],
+            "Fitting Ranges": [
+                "recF0Q1sOhjW76iJN",
+                "recrJLtt1vA0vjJGs"
+            ],
+            "Family": "Own 3",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Model Link": [
+                "reckAtNsxlq87rWMl"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Own 3 3 ITE Full Shell",
+            "Technology Level": "3"
+        }
+    },
+    {
+        "id": "rec4y8dz7v0dhVaYe",
+        "createdTime": "2024-08-17T02:52:04.000Z",
+        "fields": {
+            "Model": "ITE Half Shell",
+            "Couplings": [
+                "75dB",
+                "90dB"
+            ],
+            "Electroacoustics": [
+                "recD6cGLtfE7lQVnI",
+                "recwgIbLLvsQQUssb",
+                "recNNgYhzmTW57yfm",
+                "recqRkOg4dUGhAN9m"
+            ],
+            "Fitting Ranges": [
+                "recKsbrVhsF3qBQPL",
+                "recbCUPtqw6dGgZXX"
+            ],
+            "Family": "Own 4",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Model Link": [
+                "recPsO5cyjOysZQUw"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Own 4 4 ITE Half Shell",
+            "Technology Level": "4"
+        }
+    },
+    {
+        "id": "rec59pZs6aRJo47q9",
+        "createdTime": "2024-07-17T02:28:09.000Z",
+        "fields": {
+            "Model": "P-312",
+            "Couplings": [
+                "M Receiver",
+                "P Receiver",
+                "UP Reciever",
+                "SP Reciever"
+            ],
+            "Electroacoustics": [
+                "recMt2TUjQlfDh4dc",
+                "rec36BUEf2lrkc40I",
+                "recRrNKHhoCP5FmPl",
+                "recdrwctu0wWEoAMB"
+            ],
+            "Family": "Virto",
+            "Model Link": [
+                "recfyPpxT6Ibu2Jwe"
+            ],
+            "Brand": [
+                "rec0FzYPo17S3rVjr"
+            ],
+            "Hearing Aid": "Virto  P-312"
+        }
+    },
+    {
+        "id": "rec5l4j2rhzjdp0nH",
+        "createdTime": "2024-08-17T02:52:05.000Z",
+        "fields": {
+            "Model": "ITE Full Shell",
+            "Couplings": [
+                "75dB",
+                "90dB"
+            ],
+            "Electroacoustics": [
+                "recD6cGLtfE7lQVnI",
+                "recwgIbLLvsQQUssb",
+                "recNNgYhzmTW57yfm",
+                "recqRkOg4dUGhAN9m"
+            ],
+            "Fitting Ranges": [
+                "rec7aBZLutkvZc0TJ",
+                "recZpanYTuqPfloRb"
+            ],
+            "Family": "Own 5",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Model Link": [
+                "reckAtNsxlq87rWMl"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Own 5 5 ITE Full Shell",
+            "Technology Level": "5"
+        }
+    },
+    {
+        "id": "rec6iROGREVpw2Fsq",
+        "createdTime": "2024-08-17T02:52:03.000Z",
+        "fields": {
+            "Model": "ITE Half Shell",
+            "Couplings": [
+                "75dB",
+                "90dB"
+            ],
+            "Electroacoustics": [
+                "recD6cGLtfE7lQVnI",
+                "recwgIbLLvsQQUssb",
+                "recNNgYhzmTW57yfm",
+                "recqRkOg4dUGhAN9m"
+            ],
+            "Fitting Ranges": [
+                "recx3Pi9W7pTE5uaN",
+                "recDRlv1gQ1mq527M"
+            ],
+            "Family": "Own 3",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Model Link": [
+                "recPsO5cyjOysZQUw"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Own 3 3 ITE Half Shell",
+            "Technology Level": "3"
+        }
+    },
+    {
+        "id": "rec7RsYwJs1OlnUWN",
+        "createdTime": "2024-08-06T03:44:27.000Z",
+        "fields": {
+            "Model": "P-PR",
+            "Electroacoustics": [
+                "recG4OowyDzBkY3xA",
+                "recpfXHFEH9EQSudX"
+            ],
+            "Family": "Na\u00edda Lumity",
+            "Model Link": [
+                "recruwTpNIpaqcy6i"
+            ],
+            "Brand": [
+                "rec0FzYPo17S3rVjr"
+            ],
+            "Hearing Aid": "Na\u00edda Lumity  P-PR"
+        }
+    },
+    {
+        "id": "rec8MOIfSvpLK1Qeg",
+        "createdTime": "2024-06-28T14:54:28.000Z",
+        "fields": {
+            "Model": "ITE",
+            "Couplings": [
+                "ITE Receiver MP",
+                "ITE Receiver HP",
+                "ITE Receiver UP"
+            ],
+            "Electroacoustics": [
+                "recXl42ZTgL0WIDqE",
+                "recq0akls4tCO6zsU",
+                "reccbp4ATFfOquRqa",
+                "recwemqPZGXp2PwKo",
+                "recZuUyMbiTMB5lk1",
+                "recYMF0sm3BkaMvwh"
+            ],
+            "Fitting Ranges": [
+                "rech7ANvtYhXb9cJ6",
+                "recqlTz2oZuO7uPQd",
+                "rec9kZ9c3ZoQurNb4"
+            ],
+            "Family": "Nexia",
+            "Brand": [
+                "recuIPJKNjTIzTNpN"
+            ],
+            "Hearing Aid": "Nexia  ITE"
+        }
+    },
+    {
+        "id": "rec8mLkllds68sl5O",
+        "createdTime": "2024-06-27T21:57:06.000Z",
+        "fields": {
+            "Model": "P-UP",
+            "Couplings": [
+                "Slim Tube HE",
+                "Standard Earhook HE11 680"
+            ],
+            "Electroacoustics": [
+                "recVR4EKBIW8JE1SP",
+                "rec3TBHSfHCg1kQHA"
+            ],
+            "Family": "Na\u00edda Lumity",
+            "Model Link": [
+                "recryUM18gRNyY6hW"
+            ],
+            "Brand": [
+                "rec0FzYPo17S3rVjr"
+            ],
+            "Hearing Aid": "Na\u00edda Lumity  P-UP"
+        }
+    },
+    {
+        "id": "rec8sLzklDY5Je9fU",
+        "createdTime": "2024-07-23T22:56:47.000Z",
+        "fields": {
+            "Model": "BTE 13 Direct",
+            "Couplings": [
+                "BTE Reciever",
+                "V.2 BTE Reciever"
+            ],
+            "Family": "Moment",
+            "Brand": [
+                "reccW9sWMWidk7nra"
+            ],
+            "Hearing Aid": "Moment  BTE 13 Direct"
+        }
+    },
+    {
+        "id": "recA1SAux8AJd5QPm",
+        "createdTime": "2024-07-17T02:28:10.000Z",
+        "fields": {
+            "Model": "P-10",
+            "Couplings": [
+                "M Receiver",
+                "P Receiver",
+                "SP Reciever"
+            ],
+            "Electroacoustics": [
+                "rec99Hyqb5WmdUUKw",
+                "recmPhzrNafmOABUI",
+                "rec0K1Qssfy9lnUiO"
+            ],
+            "Family": "Virto",
+            "Model Link": [
+                "recKRrFboNWDYHOsB"
+            ],
+            "Brand": [
+                "rec0FzYPo17S3rVjr"
+            ],
+            "Hearing Aid": "Virto  P-10"
+        }
+    },
+    {
+        "id": "recAdw5xTOiErX3zH",
+        "createdTime": "2024-07-23T02:04:55.000Z",
+        "fields": {
+            "Model": "RIE 62",
+            "Couplings": [
+                "MM Reciever",
+                "Standard Reciever LP",
+                "Standard Reciever MP",
+                "Standard Reciever HP",
+                "Standard Reciever UP"
+            ],
+            "Electroacoustics": [
+                "recu5Aq2qZD6zusk3",
+                "recVF2ABzduzSuHxO",
+                "recItOtAZmboigCz7",
+                "recfr9u9TPNPS21Vi",
+                "reckOPutAvmEpCOKi",
+                "recpOeo4YaC1E6EUU",
+                "recSHb0ZXgWPd27kG",
+                "recbo1BgIzdTK9kPC",
+                "recA0JBmgmqs4InqC",
+                "recIEWMHJbH5AVUwy"
+            ],
+            "Fitting Ranges": [
+                "rec7nKs7POVAG6afL",
+                "recWHr670I0DzRq0o",
+                "recrVYaCIlSHCF3f2",
+                "recHEIce0QSZWMX0l",
+                "recAPKKwyX8DGwPph"
+            ],
+            "Family": "Nexia",
+            "Model Link": [
+                "recwsPN35wdDAIAEu"
+            ],
+            "Brand": [
+                "recuIPJKNjTIzTNpN"
+            ],
+            "Hearing Aid": "Nexia  RIE 62"
+        }
+    },
+    {
+        "id": "recCmEOHg0vEsuwGD",
+        "createdTime": "2024-09-24T00:34:19.000Z",
+        "fields": {
+            "Hearing Aid": "  "
+        }
+    },
+    {
+        "id": "recEQQl6UiuLxKpqp",
+        "createdTime": "2024-08-17T02:52:03.000Z",
+        "fields": {
+            "Model": "ITE Half Shell",
+            "Couplings": [
+                "75dB",
+                "90dB"
+            ],
+            "Electroacoustics": [
+                "recshfF1eq3xpBvXg",
+                "recJ53SbEUduHpw8M",
+                "recuzPG4lbzWfPzC8",
+                "recWXTEWLzZDACZvF"
+            ],
+            "Fitting Ranges": [
+                "recS58VoRR9qOlJJf",
+                "recxUg7AQk7Z05DNR"
+            ],
+            "Family": "Own 1",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Model Link": [
+                "recPsO5cyjOysZQUw"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Own 1 1 ITE Half Shell",
+            "Technology Level": "1"
+        }
+    },
+    {
+        "id": "recERSWpa705yulcA",
+        "createdTime": "2024-08-16T00:20:00.000Z",
+        "fields": {
+            "Model": "CIC",
+            "Couplings": [
+                "75dB",
+                "90dB"
+            ],
+            "Electroacoustics": [
+                "recX8GwB9Zlvfr9uX",
+                "recjzY7xIl8wMBa3f",
+                "recDyaU4n4UFHdxkA",
+                "rec0psGV9wrSC7ED2"
+            ],
+            "Fitting Ranges": [
+                "recSybMAxK5rl8Yig",
+                "recnPJa6bcJ7IGMQ4"
+            ],
+            "Family": "Own 2",
+            "Technology Level": "2",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Model Link": [
+                "recRWb4P2ZNQJt10U"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Own 2 2 CIC"
+        }
+    },
+    {
+        "id": "recEzkv5S2Z3FpcIx",
+        "createdTime": "2024-08-15T23:49:39.000Z",
+        "fields": {
+            "Model": "miniRITE T",
+            "Couplings": [
+                "miniFit Detect 85",
+                "miniFit Detect 60",
+                "miniFit Detect 100",
+                "miniFit Detect 105"
+            ],
+            "Electroacoustics": [
+                "recEgAv5eMdUYZsWo",
+                "rec4QgpWUJZcPPY9u",
+                "rec0QV73ubxgu8K2O",
+                "rec17YwzBcy2EIv9W",
+                "recjjjo3H1Al0WR5K",
+                "recj8YurrVssDjSo9",
+                "recERAlyRJjLN0Pk2",
+                "rec4UNHtMbN3flR5d",
+                "recdi0KJPdxlDAhD8"
+            ],
+            "Fitting Ranges": [
+                "recZPdizNnNg0KHT5",
+                "recG9UYXFjW5vq8hh",
+                "rec7dT4s0qcbPH5cF",
+                "recU7YqwUBZqM1H63",
+                "reckVn78KOlMfYMsd",
+                "recHZMOsTpbJClq0b",
+                "recxY3c9Tuv4Vl2Xi",
+                "rec7k0PZpaaFLoG72",
+                "receC77rrvHpTGhNF"
+            ],
+            "Family": "Real",
+            "Technology Level": "3",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Model Link": [
+                "recJXyUF29EnXxtws"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Real 3 miniRITE T"
+        }
+    },
+    {
+        "id": "recFrgfONIygjcoI7",
+        "createdTime": "2024-08-16T00:19:59.000Z",
+        "fields": {
+            "Model": "IIC",
+            "Couplings": [
+                "75dB",
+                "90dB"
+            ],
+            "Electroacoustics": [
+                "recNa8VE2gmkQQrJV",
+                "receeKY3te8Xi8L7X",
+                "recySPsIiPTFQiQFr",
+                "recxbnoisrHRg1Mpc"
+            ],
+            "Fitting Ranges": [
+                "recXLvbm4ziU47sAX",
+                "recy1OkWxws6t0VIX"
+            ],
+            "Family": "Own 2",
+            "Technology Level": "2",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Model Link": [
+                "reckmHmalqM94lMfa"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Own 2 2 IIC"
+        }
+    },
+    {
+        "id": "recGjj0kfPZZbHw16",
+        "createdTime": "2024-07-23T23:04:28.000Z",
+        "fields": {
+            "Model": "ITE Rechargable",
+            "Couplings": [
+                "L Receiver",
+                "M Receiver",
+                "P Receiver",
+                "UP Receiver"
+            ],
+            "Fitting Ranges": [
+                "recNhmtqkmVYtivYh",
+                "rec8I3otW28XYRrHM",
+                "recWQEjtHoW2ekl86",
+                "rec9qCHr4IHY8kUUW"
+            ],
+            "Family": "Genesis AI",
+            "Model Link": [
+                "recEbNZ2i1D1y8JoC"
+            ],
+            "Brand": [
+                "recOTzKvcLWZYW6mz"
+            ],
+            "Hearing Aid": "Genesis AI  ITE Rechargable"
+        }
+    },
+    {
+        "id": "recHL4P2biTolK3DP",
+        "createdTime": "2024-07-23T23:02:12.000Z",
+        "fields": {
+            "Model": "IM/IP",
+            "Family": "Moment",
+            "Brand": [
+                "reccW9sWMWidk7nra"
+            ],
+            "Hearing Aid": "Moment  IM/IP"
+        }
+    },
+    {
+        "id": "recKGy1OBpAbXoRWd",
+        "createdTime": "2024-08-17T02:46:11.000Z",
+        "fields": {
+            "Model": "ITC",
+            "Couplings": [
+                "75dB",
+                "90dB"
+            ],
+            "Electroacoustics": [
+                "recD6cGLtfE7lQVnI",
+                "recwgIbLLvsQQUssb",
+                "recNNgYhzmTW57yfm",
+                "recqRkOg4dUGhAN9m"
+            ],
+            "Fitting Ranges": [
+                "rectkXV25OnIyWHZn",
+                "recnvOFiysDHCJ2qU"
+            ],
+            "Family": "Own 2",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Own 2 2 ITC",
+            "Technology Level": "2"
+        }
+    },
+    {
+        "id": "recLBMx5zU6yX4JLW",
+        "createdTime": "2024-07-23T23:17:36.000Z",
+        "fields": {
+            "Model": "CIC Non-Wireless",
+            "Couplings": [
+                "L Receiver",
+                "M Receiver",
+                "P Receiver",
+                "UP Receiver"
+            ],
+            "Fitting Ranges": [
+                "recUAiS5i4dhRh9ol",
+                "recpWQBCkThqQQX7j",
+                "rec9Q2indS5b0AeH9",
+                "recuBuK5zc9YZEoyK"
+            ],
+            "Family": "Genesis AI",
+            "Model Link": [
+                "recf5xYjseYBJlUBX"
+            ],
+            "Brand": [
+                "recOTzKvcLWZYW6mz"
+            ],
+            "Hearing Aid": "Genesis AI  CIC Non-Wireless"
+        }
+    },
+    {
+        "id": "recLz4rrCCXFHATkS",
+        "createdTime": "2024-08-16T00:19:59.000Z",
+        "fields": {
+            "Model": "IIC",
+            "Couplings": [
+                "75dB",
+                "90dB"
+            ],
+            "Electroacoustics": [
+                "recNa8VE2gmkQQrJV",
+                "receeKY3te8Xi8L7X",
+                "recySPsIiPTFQiQFr",
+                "recxbnoisrHRg1Mpc"
+            ],
+            "Fitting Ranges": [
+                "rect8NcwHvqUedQqe",
+                "recUvQb4TDPPOjfaY"
+            ],
+            "Family": "Own 3",
+            "Technology Level": "3",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Model Link": [
+                "reckmHmalqM94lMfa"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Own 3 3 IIC"
+        }
+    },
+    {
+        "id": "recMk1bs18RKgMSBp",
+        "createdTime": "2024-07-23T23:04:26.000Z",
+        "fields": {
+            "Model": "IIC Non-Wireless",
+            "Couplings": [
+                "L- Receiver",
+                "L Receiver",
+                "M Receiver"
+            ],
+            "Fitting Ranges": [
+                "recVGgiHxG7XF33SQ",
+                "recld1AqRc0Pi4Htq",
+                "recFVZvGM933QBGYa"
+            ],
+            "Family": "Genesis AI",
+            "Model Link": [
+                "recWH1IyBL4OIb6rV"
+            ],
+            "Brand": [
+                "recOTzKvcLWZYW6mz"
+            ],
+            "Hearing Aid": "Genesis AI  IIC Non-Wireless"
+        }
+    },
+    {
+        "id": "recNPt7SvrRVWV9RL",
+        "createdTime": "2024-08-16T00:20:01.000Z",
+        "fields": {
+            "Model": "ITC",
+            "Couplings": [
+                "75dB",
+                "90dB"
+            ],
+            "Electroacoustics": [
+                "recshfF1eq3xpBvXg",
+                "recJ53SbEUduHpw8M",
+                "recuzPG4lbzWfPzC8",
+                "recWXTEWLzZDACZvF"
+            ],
+            "Fitting Ranges": [
+                "recfFH7nEZTUvHCHi",
+                "recceBI9ytzHe5R8d"
+            ],
+            "Family": "Own 1",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Own 1 1 ITC",
+            "Technology Level": "1"
+        }
+    },
+    {
+        "id": "recNYqXAQXldXL0ot",
+        "createdTime": "2024-07-17T02:28:11.000Z",
+        "fields": {
+            "Model": "P-Titanium",
+            "Couplings": [
+                "SP Reciever"
+            ],
+            "Electroacoustics": [
+                "rec1fpcx2h3djmn3G",
+                "recuJoPPIxNhUebAr",
+                "recVWHHlY0FnIKBEG"
+            ],
+            "Family": "Virto",
+            "Model Link": [
+                "recWKe45OWsOHooBL"
+            ],
+            "Brand": [
+                "rec0FzYPo17S3rVjr"
+            ],
+            "Hearing Aid": "Virto  P-Titanium"
+        }
+    },
+    {
+        "id": "recNcf2iCF0CSyfj5",
+        "createdTime": "2024-08-17T02:46:11.000Z",
+        "fields": {
+            "Model": "ITC",
+            "Couplings": [
+                "75dB",
+                "90dB"
+            ],
+            "Electroacoustics": [
+                "recD6cGLtfE7lQVnI",
+                "recwgIbLLvsQQUssb",
+                "recNNgYhzmTW57yfm",
+                "recqRkOg4dUGhAN9m"
+            ],
+            "Fitting Ranges": [
+                "recLX0Yfrr58MJuTC",
+                "recCWFGCYO8JIxd4m"
+            ],
+            "Family": "Own 4",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Own 4 4 ITC",
+            "Technology Level": "4"
+        }
+    },
+    {
+        "id": "recOFPaE03KEEf4k3",
+        "createdTime": "2024-06-09T23:20:12.000Z",
+        "fields": {
+            "Model": "L-R",
+            "Couplings": [
+                "S Reciever",
+                "M Receiver",
+                "MAV Reciever",
+                "P Receiver",
+                "UP Reciever"
+            ],
+            "Electroacoustics": [
+                "recOURGRUmDgYBDi4",
+                "recanAN1AhWTPzYBl",
+                "recQ7umADyB1tgnKY",
+                "recUIRvf6716q3xXy",
+                "recay0jR5qd1LGwAG"
+            ],
+            "Fitting Ranges": [
+                "recdAp9NcghQAuWul",
+                "recFC1JN0cOaKYmv9",
+                "rec9dEOWduJ83yfIo",
+                "reckeCZ3CQ4289e48",
+                "recZAkj1en14W2qJl"
+            ],
+            "Family": "Aud\u00e9o Lumity",
+            "Model Link": [
+                "rec7fkEvvKEXBE2Gp"
+            ],
+            "Brand": [
+                "rec0FzYPo17S3rVjr"
+            ],
+            "Hearing Aid": "Aud\u00e9o Lumity  L-R"
+        }
+    },
+    {
+        "id": "recPJGx3lJeVBNl3T",
+        "createdTime": "2024-07-23T02:45:16.000Z",
+        "fields": {
+            "Model": "Charge & Go IX",
+            "Couplings": [
+                "Silk C&G Reciever"
+            ],
+            "Electroacoustics": [
+                "recHYWI96xpd85eTW",
+                "rec1i6YrXz0DlFBw6"
+            ],
+            "Fitting Ranges": [
+                "recrASLceXZCzP7TL",
+                "rec5iF4kxJEqI1qJg",
+                "rectrlt6RlkY51i7l"
+            ],
+            "Family": "Silk",
+            "Brand": [
+                "recTxKNnKorDG37Af"
+            ],
+            "Hearing Aid": "Silk  Charge & Go IX"
+        }
+    },
+    {
+        "id": "recPi25tUxvucJGgu",
+        "createdTime": "2024-08-15T23:49:39.000Z",
+        "fields": {
+            "Model": "miniRITE T",
+            "Couplings": [
+                "miniFit Detect 85",
+                "miniFit Detect 60",
+                "miniFit Detect 100",
+                "miniFit Detect 105"
+            ],
+            "Electroacoustics": [
+                "recEgAv5eMdUYZsWo",
+                "rec4QgpWUJZcPPY9u",
+                "rec0QV73ubxgu8K2O",
+                "rec17YwzBcy2EIv9W",
+                "recjjjo3H1Al0WR5K",
+                "recj8YurrVssDjSo9",
+                "recERAlyRJjLN0Pk2",
+                "rec4UNHtMbN3flR5d",
+                "recdi0KJPdxlDAhD8"
+            ],
+            "Fitting Ranges": [
+                "recRveqXgqTeLm4cf",
+                "rec2HRNmVMP0TzuwC",
+                "recd5vt4czTLZ0VAv",
+                "recnKDVjuNrT03bNF",
+                "recATvXAU1OGv5d9q",
+                "recpiNjfYG2EKFlhi",
+                "recIBt8Xafh3Dp1ba",
+                "rec1fWteNjAUCuJwG",
+                "recQ2oze6uhIxeZgI"
+            ],
+            "Family": "Real",
+            "Technology Level": "2",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Model Link": [
+                "recJXyUF29EnXxtws"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Real 2 miniRITE T"
+        }
+    },
+    {
+        "id": "recPySjaTqmd693y5",
+        "createdTime": "2024-06-27T21:57:37.000Z",
+        "fields": {
+            "Model": "L-PR",
+            "Couplings": [
+                "Standard Earhook HE11 680",
+                "Standard Earhook HE11"
+            ],
+            "Electroacoustics": [
+                "rechf4VmmqKkfWX9Z",
+                "recWlLrwikqqnb20j"
+            ],
+            "Family": "Na\u00edda Lumity",
+            "Brand": [
+                "rec0FzYPo17S3rVjr"
+            ],
+            "Hearing Aid": "Na\u00edda Lumity  L-PR"
+        }
+    },
+    {
+        "id": "recQw2oFL2F49eeRr",
+        "createdTime": "2024-08-15T23:49:38.000Z",
+        "fields": {
+            "Model": "miniRITE T",
+            "Couplings": [
+                "miniFit Detect 85",
+                "miniFit Detect 60",
+                "miniFit Detect 100",
+                "miniFit Detect 105"
+            ],
+            "Electroacoustics": [
+                "recSmyQJ7Jhics5oi",
+                "recWixXlBRMBgtxIB",
+                "rec0HyzN31GWEtPA6",
+                "rectTwa8mIjQDk9lw",
+                "recyWpCVaai54jO10",
+                "recYs7DwiGIVHqENP",
+                "recYrwlOkMTVxTlap",
+                "recgsuVRNmqJUSkmi"
+            ],
+            "Fitting Ranges": [
+                "rec9QC1s6pHdc4col",
+                "recZdwUzLDUIxLGc0",
+                "recRwExU767NBch6z",
+                "reciWlRDKIQ2v2hWR",
+                "rectSlA4SIDYbL4cP",
+                "recPAatvEYtgS8Nkf",
+                "recYW82Iibb3I3RTg",
+                "recEqqVDrTJoI7HEZ",
+                "receQ1JRMZTn80Zsr"
+            ],
+            "Family": "Real",
+            "Technology Level": "1",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Model Link": [
+                "recJXyUF29EnXxtws"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Real 1 miniRITE T"
+        }
+    },
+    {
+        "id": "recQwUsPq0ENGH2Lf",
+        "createdTime": "2024-06-28T14:54:17.000Z",
+        "fields": {
+            "Model": "BTE",
+            "Couplings": [
+                "BTE 77",
+                "BTE 88"
+            ],
+            "Electroacoustics": [
+                "recBCJLv3WXZvSCzX",
+                "recn4vhKdopFPt63Y",
+                "recSMRyz1obR8dugr",
+                "recuqLMHwnv3drZ4e"
+            ],
+            "Fitting Ranges": [
+                "rec7IldMOD15IdoVR",
+                "recsN6j9BdltMlHwn",
+                "recV85KJZmqAJV47o",
+                "reczCAwigZAC7YdlO"
+            ],
+            "Family": "Nexia",
+            "Brand": [
+                "recuIPJKNjTIzTNpN"
+            ],
+            "Hearing Aid": "Nexia  BTE"
+        }
+    },
+    {
+        "id": "recRy8NSgSS9LGSkG",
+        "createdTime": "2024-08-17T02:52:04.000Z",
+        "fields": {
+            "Model": "ITE Full Shell",
+            "Couplings": [
+                "75dB",
+                "90dB"
+            ],
+            "Electroacoustics": [
+                "recD6cGLtfE7lQVnI",
+                "recwgIbLLvsQQUssb",
+                "recNNgYhzmTW57yfm",
+                "recqRkOg4dUGhAN9m"
+            ],
+            "Fitting Ranges": [
+                "rec5iDhTpr8sxt8e3",
+                "reclqRLNrBLAZwfzL"
+            ],
+            "Family": "Own 2",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Model Link": [
+                "reckAtNsxlq87rWMl"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Own 2 2 ITE Full Shell",
+            "Technology Level": "2"
+        }
+    },
+    {
+        "id": "recS615zMqBvTg0Cb",
+        "createdTime": "2024-06-29T03:36:41.000Z",
+        "fields": {
+            "Model": "RIC 312 Direct",
+            "Couplings": [
+                "S-Reciever",
+                "M-Reciever",
+                "P-Reciever",
+                "HP-Reciever"
+            ],
+            "Family": "Moment",
+            "Model Link": [
+                "rechdFPAyFNCuIRv1"
+            ],
+            "Brand": [
+                "reccW9sWMWidk7nra"
+            ],
+            "Hearing Aid": "Moment  RIC 312 Direct"
+        }
+    },
+    {
+        "id": "recS9y1VkZFpp03sX",
+        "createdTime": "2024-07-23T02:44:06.000Z",
+        "fields": {
+            "Model": "IX",
+            "Couplings": [
+                "M-Reciever",
+                "P-Reciever",
+                "S-Reciever"
+            ],
+            "Electroacoustics": [
+                "recktWpvSloimtfkc",
+                "recsN2aWIdx74eJS4",
+                "recHq6VGv4TLItDPn",
+                "rec4EM9eeTSvw9Jrk",
+                "recWQF4T8kOsymc29",
+                "rec7FPasD1LAKgunT"
+            ],
+            "Fitting Ranges": [
+                "rec080kWm5sccnJqc",
+                "recWxuV7jSG7rug1G",
+                "reczygzQLdqBrBdkT",
+                "recZmUlSAITRP7cTi",
+                "recomyYtd0a2kP71r",
+                "recqWjWe6KiXPh99i",
+                "recCVYsnYJAcWEric",
+                "recyB2fcXsn2fwNUs"
+            ],
+            "Family": "Styletto",
+            "Model Link": [
+                "recF1WJ5wdpzTUoD9"
+            ],
+            "Brand": [
+                "recTxKNnKorDG37Af"
+            ],
+            "Hearing Aid": "Styletto  IX"
+        }
+    },
+    {
+        "id": "recUqndZLqWCvgwDN",
+        "createdTime": "2024-08-15T23:49:39.000Z",
+        "fields": {
+            "Model": "miniRITE R",
+            "Couplings": [
+                "miniFit Detect 85",
+                "miniFit Detect 60",
+                "miniFit Detect 100",
+                "miniFit Detect 105"
+            ],
+            "Electroacoustics": [
+                "recEgAv5eMdUYZsWo",
+                "rec4QgpWUJZcPPY9u",
+                "rec0QV73ubxgu8K2O",
+                "rec17YwzBcy2EIv9W",
+                "recjjjo3H1Al0WR5K",
+                "recj8YurrVssDjSo9",
+                "recERAlyRJjLN0Pk2",
+                "rec4UNHtMbN3flR5d",
+                "recdi0KJPdxlDAhD8"
+            ],
+            "Fitting Ranges": [
+                "recPWeCTu2nwavgQL",
+                "rectcnVkP83w0ZgpK",
+                "recD5oYVwGyyXmxyX",
+                "recnXEMb9nuyVb5yY",
+                "recA5UviMhB1VKiJT",
+                "recKvgfKMeyNHMtAl",
+                "recgt0apFhQEbodnf",
+                "recmSgc5fhAp5zMip",
+                "rec8gWsIMPYZA4W3F"
+            ],
+            "Family": "Real",
+            "Technology Level": "3",
+            "Charging Stats": [
+                "reczq4t7WyxYFv1YU"
+            ],
+            "Model Link": [
+                "rec3GRnRCryHJ4KJF"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Real 3 miniRITE R"
+        }
+    },
+    {
+        "id": "recV5hRiweR33sHac",
+        "createdTime": "2024-08-15T23:14:25.000Z",
+        "fields": {
+            "Model": "miniRITE",
+            "Couplings": [
+                "miniFit Detect 85",
+                "miniFit Detect 60",
+                "miniFit Detect 100",
+                "miniFit Detect 105"
+            ],
+            "Electroacoustics": [
+                "recswtTPTXuBm4U94",
+                "recVax9PHFKku3fdV",
+                "recZEPfikm155RdD9",
+                "recxNwhqePBcBi2zS",
+                "reczTVQ0oJSDSSPmQ",
+                "recwcjcWfXEMypy3P",
+                "recL4FQfPJjZuLH4j",
+                "recHm9ziPv0CHc4Le"
+            ],
+            "Fitting Ranges": [
+                "rec1By9bxoOYsKyXv",
+                "recLVi4ZMU0Bza1yq",
+                "rec4GN656nt0MQErD",
+                "recWMTvqqCDxuW8TZ",
+                "rec5U6rdUZMUTFaTi",
+                "recuUBa7OYENjFvOK",
+                "rec6eVJb5uI29otRI",
+                "rec7zZBxWCXNrAklk",
+                "recqpe5GiXWXoxAvd"
+            ],
+            "Family": "Intent",
+            "Technology Level": "3",
+            "Charging Stats": [
+                "reczq4t7WyxYFv1YU"
+            ],
+            "Model Link": [
+                "recLujjRkeBQh9ZUx"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Intent 3 miniRITE"
+        }
+    },
+    {
+        "id": "recVE2mhPhR7Je34i",
+        "createdTime": "2024-06-28T13:30:23.000Z",
+        "fields": {
+            "Model": "L-RT",
+            "Couplings": [
+                "S Reciever",
+                "M Receiver",
+                "MAV Reciever",
+                "P Receiver",
+                "UP Reciever"
+            ],
+            "Electroacoustics": [
+                "rec2W9ugCIZMn34tr",
+                "recPEkPLqvqcwcfWy",
+                "recqdGCBkQ7YOm6mC",
+                "recwT1PT8yRSBVPNw",
+                "recbWDmTMa4vF10rX"
+            ],
+            "Fitting Ranges": [
+                "recpJFhAkpWVN6mAc",
+                "rec0c1eGqlqkX92NX",
+                "recT9sCbAr7uFMkvv",
+                "recvRDxhPy7Wtt9bq",
+                "recrHPGEQZP4Kjuas"
+            ],
+            "Family": "Aud\u00e9o Lumity",
+            "Model Link": [
+                "rec9cO2Df1lDE6HLD"
+            ],
+            "Brand": [
+                "rec0FzYPo17S3rVjr"
+            ],
+            "Hearing Aid": "Aud\u00e9o Lumity  L-RT"
+        }
+    },
+    {
+        "id": "recW6jhLWmEhFrtY5",
+        "createdTime": "2024-08-15T23:14:27.000Z",
+        "fields": {
+            "Model": "miniRITE",
+            "Couplings": [
+                "miniFit Detect 85",
+                "miniFit Detect 60",
+                "miniFit Detect 100",
+                "miniFit Detect 105"
+            ],
+            "Electroacoustics": [
+                "recswtTPTXuBm4U94",
+                "recVax9PHFKku3fdV",
+                "recZEPfikm155RdD9",
+                "recxNwhqePBcBi2zS",
+                "reczTVQ0oJSDSSPmQ",
+                "recwcjcWfXEMypy3P",
+                "recL4FQfPJjZuLH4j",
+                "recHm9ziPv0CHc4Le"
+            ],
+            "Fitting Ranges": [
+                "rechKuz24B2LKLEDL",
+                "rec32xnjKDSVGaYxk",
+                "recP5FE5O8y58PGMQ",
+                "recIlxr7MDLb8PSZ5",
+                "recX6vNoXqWPAn2eR",
+                "recce7yvUiuvadI6R",
+                "recqcV9NOs45mx5Df",
+                "recF2bNvMj4lElFv3",
+                "recNdkMGeoCqrERxH"
+            ],
+            "Family": "Intent",
+            "Technology Level": "2",
+            "Charging Stats": [
+                "reczq4t7WyxYFv1YU"
+            ],
+            "Model Link": [
+                "recLujjRkeBQh9ZUx"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Intent 2 miniRITE"
+        }
+    },
+    {
+        "id": "recWC3TsPNibT6x2M",
+        "createdTime": "2024-08-15T23:14:23.000Z",
+        "fields": {
+            "Model": "miniRITE",
+            "Couplings": [
+                "miniFit Detect 85",
+                "miniFit Detect 60",
+                "miniFit Detect 100",
+                "miniFit Detect 105"
+            ],
+            "Electroacoustics": [
+                "recswtTPTXuBm4U94",
+                "recVax9PHFKku3fdV",
+                "recZEPfikm155RdD9",
+                "recxNwhqePBcBi2zS",
+                "reczTVQ0oJSDSSPmQ",
+                "recwcjcWfXEMypy3P",
+                "recL4FQfPJjZuLH4j",
+                "recHm9ziPv0CHc4Le"
+            ],
+            "Fitting Ranges": [
+                "recSxY8MPBRGhZABe",
+                "recZT1tLbKZGIjmpJ",
+                "recosqLdA9CWMCZfw",
+                "rec9FoP0X1e6Xu2Gi",
+                "reclDccnFhbZV29fA",
+                "receSkXPj3AYXh8Sj",
+                "recpTNsba86wIVX2Z",
+                "reclh7WZfUUrDluDz",
+                "recBh7GLy7sTfOaze"
+            ],
+            "Family": "Intent",
+            "Technology Level": "4",
+            "Charging Stats": [
+                "reczq4t7WyxYFv1YU"
+            ],
+            "Model Link": [
+                "recLujjRkeBQh9ZUx"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Intent 4 miniRITE"
+        }
+    },
+    {
+        "id": "recWv29BMZh69KuEd",
+        "createdTime": "2024-08-16T00:20:00.000Z",
+        "fields": {
+            "Model": "CIC",
+            "Couplings": [
+                "75dB",
+                "90dB"
+            ],
+            "Electroacoustics": [
+                "rec2EpV7wxvi2c8au",
+                "receBWUp8yXvUCoR0",
+                "recgmrfGWIOvxqVxk",
+                "recUs0vji29DKTUjG"
+            ],
+            "Fitting Ranges": [
+                "reczrbO4CZhPKOF4K",
+                "recna76HRuhWdOUnO"
+            ],
+            "Family": "Own 1",
+            "Technology Level": "1",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Model Link": [
+                "recRWb4P2ZNQJt10U"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Own 1 1 CIC"
+        }
+    },
+    {
+        "id": "recX4fs24ziAwFTKk",
+        "createdTime": "2024-07-23T23:10:44.000Z",
+        "fields": {
+            "Model": "RIC RT",
+            "Couplings": [
+                "L Receiver",
+                "M Receiver",
+                "P Receiver",
+                "UP Receiver"
+            ],
+            "Fitting Ranges": [
+                "recz8EhewE1D2xFyy",
+                "rectAeIT3Viisc3LB",
+                "reccvM8xEtyEG3h4e",
+                "recizYrfokTq4Qhk2"
+            ],
+            "Family": "Genesis AI",
+            "Model Link": [
+                "reclJVrCf3EMH4F0W"
+            ],
+            "Brand": [
+                "recOTzKvcLWZYW6mz"
+            ],
+            "Hearing Aid": "Genesis AI  RIC RT"
+        }
+    },
+    {
+        "id": "recX9sp4OSNL9Fd9M",
+        "createdTime": "2024-08-17T02:52:04.000Z",
+        "fields": {
+            "Model": "ITE Full Shell",
+            "Couplings": [
+                "75dB",
+                "90dB"
+            ],
+            "Electroacoustics": [
+                "recshfF1eq3xpBvXg",
+                "recJ53SbEUduHpw8M",
+                "recuzPG4lbzWfPzC8",
+                "recWXTEWLzZDACZvF"
+            ],
+            "Fitting Ranges": [
+                "recMvGX4OOXvMxhlV",
+                "recjIOWYi8iH6X5Uo"
+            ],
+            "Family": "Own 1",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Model Link": [
+                "reckAtNsxlq87rWMl"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Own 1 1 ITE Full Shell",
+            "Technology Level": "1"
+        }
+    },
+    {
+        "id": "recYHWKdxu2VBhTlj",
+        "createdTime": "2024-08-16T00:19:59.000Z",
+        "fields": {
+            "Model": "IIC",
+            "Couplings": [
+                "75dB",
+                "90dB"
+            ],
+            "Electroacoustics": [
+                "recRC3X2Sldhdio8D",
+                "recsvkLT7RVRSKcJS",
+                "recQSD0HLbOiuQrSx",
+                "recwQv2bN1pbHGCm8"
+            ],
+            "Fitting Ranges": [
+                "recwyWMOfPgHY9bsT",
+                "recLZmKQ2LAGtktG8"
+            ],
+            "Family": "Own 1",
+            "Technology Level": "1",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Model Link": [
+                "reckmHmalqM94lMfa"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Own 1 1 IIC"
+        }
+    },
+    {
+        "id": "recbVWF5VTzw6FSaZ",
+        "createdTime": "2024-07-23T02:47:37.000Z",
+        "fields": {
+            "Model": "Charge & Go IX",
+            "Couplings": [
+                "M-Reciever",
+                "P-Reciever",
+                "Silk C&G Reciever",
+                "HP-Reciever",
+                "S-Reciever"
+            ],
+            "Electroacoustics": [
+                "recwgPM2TL1pq2tvw",
+                "recni6p2OeWy3ArmX",
+                "recs9x2wIwdHOQJ61",
+                "recccI4LBnWNTp2h9",
+                "rechz3vRU6CAH1aOt",
+                "recloaSBnmGrkncUt",
+                "recfI6V3ZtnSmQT9w",
+                "recYNS9KR6pAnvM3c"
+            ],
+            "Fitting Ranges": [
+                "recvQm6Gex7ADFxbJ",
+                "recOqZeIF4asm0rOr",
+                "recWgLwlY6XH4xpIB",
+                "recfmSEhBl0d5gcLV",
+                "recoMwMVysR7SfUUz",
+                "recsll9MHajhxglTw",
+                "recUqd3chnV1UGifJ",
+                "rec59asTmz6CIVbKZ",
+                "recCgSCEqgtpDEoRy"
+            ],
+            "Family": "Pure",
+            "Model Link": [
+                "recajmwihpiAxwi9w"
+            ],
+            "Brand": [
+                "recTxKNnKorDG37Af"
+            ],
+            "Hearing Aid": "Pure  Charge & Go IX"
+        }
+    },
+    {
+        "id": "recbaqnvAOqOM8C3D",
+        "createdTime": "2024-08-16T00:19:59.000Z",
+        "fields": {
+            "Model": "IIC",
+            "Couplings": [
+                "75dB",
+                "90dB"
+            ],
+            "Electroacoustics": [
+                "recNa8VE2gmkQQrJV",
+                "receeKY3te8Xi8L7X",
+                "recySPsIiPTFQiQFr",
+                "recxbnoisrHRg1Mpc"
+            ],
+            "Fitting Ranges": [
+                "recabKI8glxQ4kC4x",
+                "recekaeIVWIE8WXkU"
+            ],
+            "Family": "Own 4",
+            "Technology Level": "4",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Model Link": [
+                "reckmHmalqM94lMfa"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Own 4 4 IIC"
+        }
+    },
+    {
+        "id": "recdVgD1DZIsWFi6O",
+        "createdTime": "2024-06-28T14:53:43.000Z",
+        "fields": {
+            "Model": "Micro RIE 60S",
+            "Couplings": [
+                "MM Reciever",
+                "Standard Reciever LP",
+                "Standard Reciever MP",
+                "Standard Reciever HP",
+                "Standard Reciever UP"
+            ],
+            "Electroacoustics": [
+                "recaYWMrGKVvNHV9l",
+                "recXHRY1ZBlC9i0YY",
+                "recrFp7WdKpcIryQc",
+                "rec6No3G3DYXWYxoE",
+                "recPzsggVWNdar82n",
+                "recbqMM1RkX9n9swG",
+                "rec7gJE5mxBWtsFXz",
+                "recqQ9Z8m7pTnLT8u",
+                "rec9CbldIYLqSNBWW",
+                "recpLmQZZri1wTGRm"
+            ],
+            "Fitting Ranges": [
+                "rec72QNJv13nY8grM",
+                "recMHiXiuOH8oThSd",
+                "recVpIAJPiSCaYOxz",
+                "recYrgnrCvWD3UbJ8",
+                "recdmDz0IJzMP6xcZ"
+            ],
+            "Family": "Nexia",
+            "Model Link": [
+                "recnDRwsYp4w7QGCA"
+            ],
+            "Brand": [
+                "recuIPJKNjTIzTNpN"
+            ],
+            "Hearing Aid": "Nexia  Micro RIE 60S"
+        }
+    },
+    {
+        "id": "rece5KBQoN4I9VyDB",
+        "createdTime": "2024-07-23T22:58:16.000Z",
+        "fields": {
+            "Model": "mRIC 312 Rechargable Direct",
+            "Couplings": [
+                "V.2 S-Reciever",
+                "V.2 -Reciever"
+            ],
+            "Family": "Moment",
+            "Brand": [
+                "reccW9sWMWidk7nra"
+            ],
+            "Hearing Aid": "Moment  mRIC 312 Rechargable Direct"
+        }
+    },
+    {
+        "id": "receUtiBKYPWhSeRS",
+        "createdTime": "2024-08-15T23:49:39.000Z",
+        "fields": {
+            "Model": "miniRITE R",
+            "Couplings": [
+                "miniFit Detect 85",
+                "miniFit Detect 60",
+                "miniFit Detect 100",
+                "miniFit Detect 105"
+            ],
+            "Electroacoustics": [
+                "recEgAv5eMdUYZsWo",
+                "rec4QgpWUJZcPPY9u",
+                "rec0QV73ubxgu8K2O",
+                "rec17YwzBcy2EIv9W",
+                "recjjjo3H1Al0WR5K",
+                "recj8YurrVssDjSo9",
+                "recERAlyRJjLN0Pk2",
+                "rec4UNHtMbN3flR5d",
+                "recdi0KJPdxlDAhD8"
+            ],
+            "Fitting Ranges": [
+                "recGNydZAvaIfhSDs",
+                "reck4ogS4OZNJCQt2",
+                "recPSu9CaGIVxn41t",
+                "recVV7KXHhzoZ7cWC",
+                "reccAWB9Gsf6uqFYx",
+                "recxanfgCsfe7Am13",
+                "recEqfgEHiHILDUHJ",
+                "reci6JjiDpdAHiPyX",
+                "recP480pFknZYbIBJ"
+            ],
+            "Family": "Real",
+            "Technology Level": "2",
+            "Charging Stats": [
+                "reczq4t7WyxYFv1YU"
+            ],
+            "Model Link": [
+                "rec3GRnRCryHJ4KJF"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Real 2 miniRITE R"
+        }
+    },
+    {
+        "id": "receWmWujjggT34ui",
+        "createdTime": "2024-06-29T03:36:42.000Z",
+        "fields": {
+            "Model": "BTE Rechargable Direct",
+            "Couplings": [
+                "BTE Reciever",
+                "V.2 BTE Reciever"
+            ],
+            "Family": "Moment",
+            "Brand": [
+                "reccW9sWMWidk7nra"
+            ],
+            "Hearing Aid": "Moment  BTE Rechargable Direct"
+        }
+    },
+    {
+        "id": "recfQxIR2RFYLaPIC",
+        "createdTime": "2024-08-15T23:49:40.000Z",
+        "fields": {
+            "Model": "miniBTE T",
+            "Couplings": [
+                "miniFit Detect 85"
+            ],
+            "Electroacoustics": [
+                "recwLiMoOJBxzMIvn",
+                "recqyMwcnPuPrXduW",
+                "recKx1kelwruucAEf"
+            ],
+            "Fitting Ranges": [
+                "recxtvUnrt8vIPNft",
+                "reczUpeQZdAxe1jo8"
+            ],
+            "Family": "Real 1",
+            "Technology Level": "1",
+            "Charging Stats": [
+                "recSs4oQNUxmeUv4t"
+            ],
+            "Model Link": [
+                "recUxljvI0hTaLKnH"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Real 1 1 miniBTE T"
+        }
+    },
+    {
+        "id": "recfr2Hephp1USXId",
+        "createdTime": "2024-08-16T00:20:01.000Z",
+        "fields": {
+            "Model": "CIC",
+            "Couplings": [
+                "75dB",
+                "90dB"
+            ],
+            "Electroacoustics": [
+                "recX8GwB9Zlvfr9uX",
+                "recjzY7xIl8wMBa3f",
+                "recDyaU4n4UFHdxkA",
+                "rec0psGV9wrSC7ED2"
+            ],
+            "Fitting Ranges": [
+                "recKeahCOrpyjnltt",
+                "recwLSOJ0KWnkZ55U"
+            ],
+            "Family": "Own 5",
+            "Technology Level": "5",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Model Link": [
+                "recRWb4P2ZNQJt10U"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Own 5 5 CIC"
+        }
+    },
+    {
+        "id": "recjGRVSvhSpDjLjq",
+        "createdTime": "2024-06-29T03:36:40.000Z",
+        "fields": {
+            "Model": "CIC",
+            "Family": "Moment",
+            "Brand": [
+                "reccW9sWMWidk7nra"
+            ],
+            "Hearing Aid": "Moment  CIC"
+        }
+    },
+    {
+        "id": "recmZMM0o6cWM2I6H",
+        "createdTime": "2024-06-28T13:56:19.000Z",
+        "fields": {
+            "Model": "L-312",
+            "Electroacoustics": [
+                "receZUp9Tlfz8ygG5",
+                "recTsbHddeLxHpasn"
+            ],
+            "Fitting Ranges": [
+                "recDGb7KzYpVtqPji",
+                "reci3uSxW10muTONQ"
+            ],
+            "Family": "Aud\u00e9o Lumity",
+            "Model Link": [
+                "recTyHrwWo4UUBMAe"
+            ],
+            "Brand": [
+                "rec0FzYPo17S3rVjr"
+            ],
+            "Hearing Aid": "Aud\u00e9o Lumity  L-312"
+        }
+    },
+    {
+        "id": "recmcCOSIKAofE32Z",
+        "createdTime": "2024-06-28T14:54:27.000Z",
+        "fields": {
+            "Model": "CIC",
+            "Couplings": [
+                "CIC Receiver LP",
+                "CIC Receiver MP",
+                "CIC Receiver HP"
+            ],
+            "Electroacoustics": [
+                "rec7YafmVL4Wd3KCL",
+                "recY3w4D7feH2Bb0r",
+                "recrI2T8cErqJ9Vi1",
+                "recGWw56xLS8BQNc6",
+                "recx19oqJeqVndlST",
+                "recNTCKZ0I9dKNKhK"
+            ],
+            "Fitting Ranges": [
+                "recjc4dvadA4PK96e",
+                "recX4G8I3ALNEqNDX",
+                "recLXAAe4cOYqgmIu"
+            ],
+            "Family": "Nexia",
+            "Brand": [
+                "recuIPJKNjTIzTNpN"
+            ],
+            "Hearing Aid": "Nexia  CIC"
+        }
+    },
+    {
+        "id": "recmltVbFM2U519ju",
+        "createdTime": "2024-08-17T02:52:05.000Z",
+        "fields": {
+            "Model": "ITE Full Shell",
+            "Couplings": [
+                "75dB",
+                "90dB"
+            ],
+            "Electroacoustics": [
+                "recD6cGLtfE7lQVnI",
+                "recwgIbLLvsQQUssb",
+                "recNNgYhzmTW57yfm",
+                "recqRkOg4dUGhAN9m"
+            ],
+            "Fitting Ranges": [
+                "rec4bEPkPuu0S9q8r",
+                "recjcFzBWyZN9vXLG"
+            ],
+            "Family": "Own 4",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Model Link": [
+                "reckAtNsxlq87rWMl"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Own 4 4 ITE Full Shell",
+            "Technology Level": "4"
+        }
+    },
+    {
+        "id": "recnOU0Jt4MeF6GQr",
+        "createdTime": "2024-08-17T02:46:12.000Z",
+        "fields": {
+            "Model": "ITC",
+            "Couplings": [
+                "75dB",
+                "90dB"
+            ],
+            "Electroacoustics": [
+                "recD6cGLtfE7lQVnI",
+                "recwgIbLLvsQQUssb",
+                "recNNgYhzmTW57yfm",
+                "recqRkOg4dUGhAN9m"
+            ],
+            "Fitting Ranges": [
+                "recQPJdOv5QHRJBCJ",
+                "recvZ9Kp6g7Yn5WIe"
+            ],
+            "Family": "Own 5",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Own 5 5 ITC",
+            "Technology Level": "5"
+        }
+    },
+    {
+        "id": "recnQdo0efKEsywij",
+        "createdTime": "2024-06-28T14:54:15.000Z",
+        "fields": {
+            "Model": "RIE 61",
+            "Couplings": [
+                "MM Reciever",
+                "Standard Reciever LP",
+                "Standard Reciever MP",
+                "Standard Reciever HP",
+                "Standard Reciever UP"
+            ],
+            "Electroacoustics": [
+                "recJHmTkpN9NwqlBe",
+                "recSIxZ8IjcE8GuKe",
+                "recCMQ5EeGdpiF8tZ",
+                "recT4yTIVQaC2lSV2",
+                "recgo28GEKEtHtL3K",
+                "recz1OYE8BAL4TljC",
+                "recYykbrGyqtlyvgp",
+                "rec4ni1gM61GNG2eG",
+                "recnk2KYzIMYLZ5jn",
+                "recNSOOJAJ54QUx9t"
+            ],
+            "Fitting Ranges": [
+                "rec36tGar6MhS8Jt2",
+                "rec9iAwhxl5K1g2MD",
+                "recAejqYefU0Yx7ax",
+                "rec3YI27D7UHdHCHr",
+                "recgXeUzXuiiEyEZq"
+            ],
+            "Family": "Nexia",
+            "Model Link": [
+                "recFhQvHiLRxsKWG8"
+            ],
+            "Brand": [
+                "recuIPJKNjTIzTNpN"
+            ],
+            "Hearing Aid": "Nexia  RIE 61"
+        }
+    },
+    {
+        "id": "recntO5iIqTcMHcmA",
+        "createdTime": "2024-07-23T22:56:47.000Z",
+        "fields": {
+            "Model": "BTE 312",
+            "Couplings": [
+                "BTE Reciever",
+                "V.2 BTE Reciever"
+            ],
+            "Family": "Moment",
+            "Model Link": [
+                "recnFO83X03VOsvWK"
+            ],
+            "Brand": [
+                "reccW9sWMWidk7nra"
+            ],
+            "Hearing Aid": "Moment  BTE 312"
+        }
+    },
+    {
+        "id": "recrwgmeM6VomzHXs",
+        "createdTime": "2024-07-23T23:01:47.000Z",
+        "fields": {
+            "Model": "Micro CIC",
+            "Family": "Moment",
+            "Brand": [
+                "reccW9sWMWidk7nra"
+            ],
+            "Hearing Aid": "Moment  Micro CIC"
+        }
+    },
+    {
+        "id": "rect4IpAqwPlR76NU",
+        "createdTime": "2024-08-15T23:49:40.000Z",
+        "fields": {
+            "Model": "miniBTE T",
+            "Couplings": [
+                "miniFit Detect 85"
+            ],
+            "Fitting Ranges": [
+                "recalGvnmgMaZQQqJ",
+                "reccMK9YLoktAR5AE"
+            ],
+            "Family": "Real 3",
+            "Technology Level": "3",
+            "Charging Stats": [
+                "recSs4oQNUxmeUv4t"
+            ],
+            "Model Link": [
+                "recUxljvI0hTaLKnH"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Real 3 3 miniBTE T"
+        }
+    },
+    {
+        "id": "rectUbP1ls1wldGqs",
+        "createdTime": "2024-08-15T23:49:39.000Z",
+        "fields": {
+            "Model": "miniRITE R",
+            "Couplings": [
+                "miniFit Detect 85",
+                "miniFit Detect 60",
+                "miniFit Detect 100",
+                "miniFit Detect 105"
+            ],
+            "Electroacoustics": [
+                "recSmyQJ7Jhics5oi",
+                "recWixXlBRMBgtxIB",
+                "rec0HyzN31GWEtPA6",
+                "rectTwa8mIjQDk9lw",
+                "recyWpCVaai54jO10",
+                "recYs7DwiGIVHqENP",
+                "recYrwlOkMTVxTlap",
+                "recgsuVRNmqJUSkmi"
+            ],
+            "Fitting Ranges": [
+                "recUDhyBcnxYFjllb",
+                "recl04IZ79fLSOOMz",
+                "reczNtDNPSBSLSm4E",
+                "recWgLrHOlRVBp6Md",
+                "recnZJBO5CvUE5Fhi",
+                "recaDeKb6YKPgqXiE",
+                "recfoYx15CUDSaOI0",
+                "reccI7GGhI1vAFpnF",
+                "rece0YEkPJqjucxyg"
+            ],
+            "Family": "Real",
+            "Technology Level": "1",
+            "Charging Stats": [
+                "reczq4t7WyxYFv1YU"
+            ],
+            "Model Link": [
+                "rec3GRnRCryHJ4KJF"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Real 1 miniRITE R"
+        }
+    },
+    {
+        "id": "rectl9OrOyhgbTJjv",
+        "createdTime": "2024-08-16T00:20:00.000Z",
+        "fields": {
+            "Model": "CIC",
+            "Couplings": [
+                "75dB",
+                "90dB"
+            ],
+            "Electroacoustics": [
+                "recX8GwB9Zlvfr9uX",
+                "recjzY7xIl8wMBa3f",
+                "recDyaU4n4UFHdxkA",
+                "rec0psGV9wrSC7ED2"
+            ],
+            "Fitting Ranges": [
+                "recyUew24HbMZgIya",
+                "rec4ublGYlRSFVuS3"
+            ],
+            "Family": "Own 4",
+            "Technology Level": "4",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Model Link": [
+                "recRWb4P2ZNQJt10U"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Own 4 4 CIC"
+        }
+    },
+    {
+        "id": "recunPyG2Z1Z2MgDx",
+        "createdTime": "2024-08-17T02:52:04.000Z",
+        "fields": {
+            "Model": "ITE Half Shell",
+            "Couplings": [
+                "75dB",
+                "90dB"
+            ],
+            "Electroacoustics": [
+                "recD6cGLtfE7lQVnI",
+                "recwgIbLLvsQQUssb",
+                "recNNgYhzmTW57yfm",
+                "recqRkOg4dUGhAN9m"
+            ],
+            "Fitting Ranges": [
+                "recVi6vnzPlX2HlTe",
+                "reciRYdcc3z5XAjym"
+            ],
+            "Family": "Own 5",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Model Link": [
+                "recPsO5cyjOysZQUw"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Own 5 5 ITE Half Shell",
+            "Technology Level": "5"
+        }
+    },
+    {
+        "id": "recvcHZfkLOtMXGVW",
+        "createdTime": "2024-08-15T23:49:40.000Z",
+        "fields": {
+            "Model": "miniBTE R",
+            "Couplings": [
+                "miniFit Detect 85"
+            ],
+            "Fitting Ranges": [
+                "recOSb5JCu4umzjfo",
+                "recPTHpqjWaT5y06G"
+            ],
+            "Family": "Real 3",
+            "Technology Level": "3",
+            "Charging Stats": [
+                "recSs4oQNUxmeUv4t"
+            ],
+            "Model Link": [
+                "recRz8nMoYRDfxHic"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Real 3 3 miniBTE R"
+        }
+    },
+    {
+        "id": "recvl3ac36GdLwZCu",
+        "createdTime": "2024-06-29T03:36:40.000Z",
+        "fields": {
+            "Model": "RIC 10",
+            "Couplings": [
+                "S-Reciever",
+                "M-Reciever"
+            ],
+            "Family": "Moment",
+            "Model Link": [
+                "recUcKlvMRndwRlC1"
+            ],
+            "Brand": [
+                "reccW9sWMWidk7nra"
+            ],
+            "Hearing Aid": "Moment  RIC 10"
+        }
+    },
+    {
+        "id": "recwBHOg47QpcKVSR",
+        "createdTime": "2024-06-28T13:31:14.000Z",
+        "fields": {
+            "Model": "L-RL",
+            "Couplings": [
+                "S Reciever",
+                "M Receiver",
+                "MAV Reciever",
+                "P Receiver",
+                "UP Reciever"
+            ],
+            "Electroacoustics": [
+                "rec4ZBeFnxrt9BhB6",
+                "rec5q8bZSXPACBHZp",
+                "rec3AmhZgqy3KItQT",
+                "rechFHOplghjg7zNG",
+                "rec6EH1NEWI8ego4B"
+            ],
+            "Fitting Ranges": [
+                "recOHcpoGzWQQ1Ck7",
+                "recCCTosEkAuIj3DS",
+                "rec4RuNbyosyvf5lJ",
+                "rec2hjIZOvd5QnL0l",
+                "recPTzD9h0ntoppam"
+            ],
+            "Family": "Aud\u00e9o Lumity",
+            "Model Link": [
+                "rec15Mfgb06om4EO7"
+            ],
+            "Brand": [
+                "rec0FzYPo17S3rVjr"
+            ],
+            "Hearing Aid": "Aud\u00e9o Lumity  L-RL"
+        }
+    },
+    {
+        "id": "recwHlCLlpIblztZq",
+        "createdTime": "2024-07-17T02:28:10.000Z",
+        "fields": {
+            "Model": "P-312 NW O",
+            "Couplings": [
+                "M Receiver",
+                "P Receiver",
+                "SP Reciever"
+            ],
+            "Electroacoustics": [
+                "recGsXfyzdrn80ohY",
+                "rec4WFNbf9DONbZMx",
+                "rec6gGOtdQxZNxZAI"
+            ],
+            "Family": "Virto",
+            "Brand": [
+                "rec0FzYPo17S3rVjr"
+            ],
+            "Hearing Aid": "Virto  P-312 NW O"
+        }
+    },
+    {
+        "id": "recwyxeztcYMWWS4Z",
+        "createdTime": "2024-08-15T23:49:40.000Z",
+        "fields": {
+            "Model": "miniBTE R",
+            "Couplings": [
+                "miniFit Detect 85"
+            ],
+            "Electroacoustics": [
+                "recwLiMoOJBxzMIvn",
+                "recqyMwcnPuPrXduW",
+                "recKx1kelwruucAEf"
+            ],
+            "Fitting Ranges": [
+                "recYJl3mIKlj7AFhB",
+                "reczeE4vNtpXRkeDU"
+            ],
+            "Family": "Real 1",
+            "Technology Level": "1",
+            "Charging Stats": [
+                "recSs4oQNUxmeUv4t"
+            ],
+            "Model Link": [
+                "recRz8nMoYRDfxHic"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Real 1 1 miniBTE R"
+        }
+    },
+    {
+        "id": "recx6rP9nuyA6QtMH",
+        "createdTime": "2024-08-17T02:46:11.000Z",
+        "fields": {
+            "Model": "ITC",
+            "Couplings": [
+                "75dB",
+                "90dB"
+            ],
+            "Electroacoustics": [
+                "recD6cGLtfE7lQVnI",
+                "recwgIbLLvsQQUssb",
+                "recNNgYhzmTW57yfm",
+                "recqRkOg4dUGhAN9m"
+            ],
+            "Fitting Ranges": [
+                "recAqzvffjN6NyXuj",
+                "recAk3GC3SwOI5qcb"
+            ],
+            "Family": "Own 3",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Own 3 3 ITC",
+            "Technology Level": "3"
+        }
+    },
+    {
+        "id": "recxO5mzz2SOmxwzU",
+        "createdTime": "2024-06-28T14:54:28.000Z",
+        "fields": {
+            "Model": "ITC",
+            "Couplings": [
+                "ITC Receiver LP",
+                "ITC Receiver MP",
+                "ITC Receiver HP",
+                "ITC Receiver UP"
+            ],
+            "Electroacoustics": [
+                "recF8dX7xvXtJxAln",
+                "recTRosXFZGxkNrSG",
+                "recUmTPyM4JfV4o2l",
+                "recE8vkEpnGag1nMv",
+                "recGBgotfLDIDh4kF",
+                "recUcRXfuUsqm6Cvo",
+                "recCuBkoRhmD4vhbq",
+                "recyqo7PzoucpD7rP"
+            ],
+            "Fitting Ranges": [
+                "recezkDgisUUgWkba",
+                "rec7ms2FiaolDTIly",
+                "recvIKnE6GkJ2pWzp",
+                "recUdoNNjN73X3fX5"
+            ],
+            "Family": "Nexia",
+            "Model Link": [
+                "rec1VksMg6m4NXx7G"
+            ],
+            "Brand": [
+                "recuIPJKNjTIzTNpN"
+            ],
+            "Hearing Aid": "Nexia  ITC"
+        }
+    },
+    {
+        "id": "recxRyiYdVHUoz6um",
+        "createdTime": "2024-08-16T00:20:00.000Z",
+        "fields": {
+            "Model": "CIC",
+            "Couplings": [
+                "75dB",
+                "90dB"
+            ],
+            "Electroacoustics": [
+                "recX8GwB9Zlvfr9uX",
+                "recjzY7xIl8wMBa3f",
+                "recDyaU4n4UFHdxkA",
+                "rec0psGV9wrSC7ED2"
+            ],
+            "Fitting Ranges": [
+                "rec4Zd08IxlrjGOJf",
+                "recJRyEtMWfby6nyS"
+            ],
+            "Family": "Own 3",
+            "Technology Level": "3",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Model Link": [
+                "recRWb4P2ZNQJt10U"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Own 3 3 CIC"
+        }
+    },
+    {
+        "id": "recxcvqOvARqLkVI6",
+        "createdTime": "2024-07-23T23:04:29.000Z",
+        "fields": {
+            "Model": "mRIC Rechargable",
+            "Fitting Ranges": [
+                "recnXDslTAA9eohg5",
+                "recCwlScubBsSrfA7",
+                "rec5J7eRqAJP1Fsa7",
+                "recC92itCW3Ly31t4"
+            ],
+            "Family": "Genesis AI",
+            "Model Link": [
+                "recUEcVLnd5BsHSJC"
+            ],
+            "Brand": [
+                "recOTzKvcLWZYW6mz"
+            ],
+            "Hearing Aid": "Genesis AI  mRIC Rechargable"
+        }
+    },
+    {
+        "id": "recxfd2EBmVRn90rn",
+        "createdTime": "2024-08-15T23:49:40.000Z",
+        "fields": {
+            "Model": "miniBTE T",
+            "Couplings": [
+                "miniFit Detect 85"
+            ],
+            "Fitting Ranges": [
+                "recGZvDgxNdrrgs65",
+                "recOdvlIVMPHkVhfP"
+            ],
+            "Family": "Real 2",
+            "Technology Level": "2",
+            "Charging Stats": [
+                "recSs4oQNUxmeUv4t"
+            ],
+            "Model Link": [
+                "recUxljvI0hTaLKnH"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Real 2 2 miniBTE T"
+        }
+    },
+    {
+        "id": "recxl0YlBzmEckJXl",
+        "createdTime": "2024-08-15T23:49:40.000Z",
+        "fields": {
+            "Model": "miniBTE R",
+            "Couplings": [
+                "miniFit Detect 85"
+            ],
+            "Fitting Ranges": [
+                "recvnrBPmgaZbDNV5",
+                "recWFBPBs4fhEYU0g"
+            ],
+            "Family": "Real 2",
+            "Technology Level": "2",
+            "Charging Stats": [
+                "recSs4oQNUxmeUv4t"
+            ],
+            "Model Link": [
+                "recRz8nMoYRDfxHic"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Real 2 2 miniBTE R"
+        }
+    },
+    {
+        "id": "recy1fexnN4M4vZ8F",
+        "createdTime": "2024-08-16T00:20:00.000Z",
+        "fields": {
+            "Model": "IIC",
+            "Couplings": [
+                "75dB",
+                "90dB"
+            ],
+            "Electroacoustics": [
+                "recNa8VE2gmkQQrJV",
+                "receeKY3te8Xi8L7X",
+                "recySPsIiPTFQiQFr",
+                "recxbnoisrHRg1Mpc"
+            ],
+            "Fitting Ranges": [
+                "recUv8VNxd2fd3CYS",
+                "recg0lfRaecj03JpH"
+            ],
+            "Family": "Own 5",
+            "Technology Level": "5",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Model Link": [
+                "reckmHmalqM94lMfa"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Own 5 5 IIC"
+        }
+    },
+    {
+        "id": "reczSqvCFrHyh8Iib",
+        "createdTime": "2024-08-17T02:52:03.000Z",
+        "fields": {
+            "Model": "ITE Half Shell",
+            "Couplings": [
+                "75dB",
+                "90dB"
+            ],
+            "Electroacoustics": [
+                "recD6cGLtfE7lQVnI",
+                "recwgIbLLvsQQUssb",
+                "recNNgYhzmTW57yfm",
+                "recqRkOg4dUGhAN9m"
+            ],
+            "Fitting Ranges": [
+                "recUltDmo6t4r47K1",
+                "rec60hNAWeQNSPG0f"
+            ],
+            "Family": "Own 2",
+            "Charging Stats": [
+                "recwO5vRvrzGjaaIl"
+            ],
+            "Model Link": [
+                "recPsO5cyjOysZQUw"
+            ],
+            "Brand": [
+                "reczmDJSZdZIVUzoq"
+            ],
+            "Hearing Aid": "Own 2 2 ITE Half Shell",
+            "Technology Level": "2"
+        }
+    }
+]
