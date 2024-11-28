@@ -123,11 +123,6 @@ your hearing aid is: Brand A Family 1 Model X Level 1
 
 ---
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
 ## Contributions
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
 
